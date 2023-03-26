@@ -1,7 +1,5 @@
 /*
  * File: set_op_tok_error.c
- * Authors: Faith Nyaberi
- *       Peter Ochieng
  */
 
 #include "monty.h"
