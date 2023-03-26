@@ -1,7 +1,5 @@
 /*
  * File: monty_funcs_3.c
- * Auth: Faith Nyaberi
- *       Peter Ochieng
  */
 
 #include "monty.h"
