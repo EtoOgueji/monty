@@ -1,7 +1,5 @@
 /*
  * File: monty_main.c
- * Auth: Faith Nyaberi
- *       Peter Ochieng
  */
 #include "monty.h"
 #include <sys/types.h>
