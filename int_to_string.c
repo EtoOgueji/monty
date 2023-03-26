@@ -1,7 +1,5 @@
 /*
  * File: int_to_string.c
- * Auth: Faith Nyaberi
- *       Peter Ochieng
  */
 
 #include <stdlib.h>
