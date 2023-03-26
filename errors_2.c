@@ -1,7 +1,5 @@
 /*
  * File: errors_2.c is the file name
- * Authors: Faith Nyaberi
- *       Peter Ochieng
  */
 
 #include "monty.h"
