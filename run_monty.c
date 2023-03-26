@@ -1,7 +1,5 @@
 /*
  * File: run_monty.c
- * Auth: Faith Nyaberi
- *       Peter Nyaberi
  */
 
 #include "monty.h"
